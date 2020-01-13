@@ -1,0 +1,23 @@
+Q3. Please explain what is the difference between HTTP POST and HTTP GET. ?
+HTTP POST ialah request HTTP method  yang di gunakan untuk mengupdate resource pada server
+biasanya dalam bentuk JSON atau xml. update data tersebut menghasilkan side effek yang mengakibatkan perubahan pada server.
+
+HTTP GET ialah request HTTP method  yang di gunakan untuk mendapatkan resource dari server.
+kamu bisa merequest URL yang sama berkali-kali tampa menyebebapkan side effek pada server.
+
+Q4. Please describe 3 types of design pattern that you know and give a short explanation on each of them. 
+1. Creational Pattern
+Creational Pattern merupakan pola yang digunakan untuk mensolusikan permasalahan 
+yang ditemui dalam kejadian pembuatan suatu instance atau object. 
+ 
+2. Behavioral Pattern (Pola Perilaku)
+Behavioral Pattern merupakan pola yang digunakan untuk mensolusikan permasahalan 
+yang ditemui dalam komunikasi antar object-object.
+ 
+3. Structural Pattern (Pola Struktural)
+Structural Pattern merupakan pola yang digunakan untuk mensolusikan permasalahan 
+yang ditemui dalam pengaturan komposisi class dan object. Structural Pattern dibagi
+menjadi structural class instantiation pattern yang menggunakan
+inheritance untuk mengubah interface, dan structural object pattern 
+yang menjelaskan cara untuk mengubah object dengan fungsionalitas baru.
+  
